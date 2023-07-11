@@ -12,7 +12,7 @@ Extract weather forcast data from Central Weather Bureau and load into MySQL dat
 
 **Data Source**
 
-[Central Weather Bureau](https://www.cwb.gov.tw/eng/)
+[Central Weather Bureau](https://opendata.cwb.gov.tw/dataset/forecast/F-C0032-001)
 
 ![image](https://github.com/legendyen/ETL_Weather_Data/assets/20420765/ebf2e025-0c03-46c1-ac04-72e005830142)
 
