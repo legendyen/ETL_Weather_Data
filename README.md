@@ -21,6 +21,7 @@ Extract weather forcast data from Central Weather Bureau and load into MySQL dat
 **Database Schema Diagram**
 ![image](https://github.com/legendyen/ETL_Weather_Data/assets/20420765/39a1f016-c726-46fe-8f00-cb44f8da7eb2)
 
+
 **Part2: Use K-nearest neighbor to predict weather**
 
 Predict weather by using k-nearest neighbor to perform simple classification.
@@ -32,8 +33,9 @@ Predict weather by using k-nearest neighbor to perform simple classification.
 3. Implement the model to predict new, unseen data.
 
 **Result**
-1. Decision boudary for k-NN model
+1. Decision boundaries for k-NN model
 ![image](https://github.com/legendyen/Weather_Data_Classifier/assets/20420765/b438edd0-8184-4da4-863b-2eb7a0be41fb)
 
 2. Trade-off betwenn value of k neighbor and accuracy
+![image](https://github.com/legendyen/Weather_Data_Classifier/assets/20420765/60bc57c3-f9ab-4b0c-a066-82a1a7aea689)
 
