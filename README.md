@@ -1,6 +1,6 @@
-# ETL_Weather_Data
+# Weather_Data_Classifier
 
-**Project Description**
+**Part1: ETL weather data**
 
 Extract weather forcast data from Central Weather Bureau and load into MySQL database.
 
@@ -20,3 +20,14 @@ Extract weather forcast data from Central Weather Bureau and load into MySQL dat
 
 **Database Schema Diagram**
 ![image](https://github.com/legendyen/ETL_Weather_Data/assets/20420765/39a1f016-c726-46fe-8f00-cb44f8da7eb2)
+
+**Part2: Use K-nearest neighbor to predict weather**
+
+Predict weather by using k-nearest neighbor to perform simple classification.
+
+**Motivation**
+
+1. Understand the relationship between number of K neighbor and accuracy.
+2. Understand the reason of test-train split for training classifier model.
+3. Implement the model to predict new, unseen data.
+
