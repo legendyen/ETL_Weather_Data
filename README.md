@@ -31,3 +31,9 @@ Predict weather by using k-nearest neighbor to perform simple classification.
 2. Understand the reason of test-train split for training classifier model.
 3. Implement the model to predict new, unseen data.
 
+**Result**
+1. Decision boudary for k-NN model
+![image](https://github.com/legendyen/Weather_Data_Classifier/assets/20420765/b438edd0-8184-4da4-863b-2eb7a0be41fb)
+
+2. Trade-off betwenn value of k neighbor and accuracy
+
