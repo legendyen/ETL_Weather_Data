@@ -2,11 +2,11 @@
 
 **Part1: ETL weather data**
 
-Extract weather forcast data from Central Weather Bureau and load into MySQL database.
+Extract weather forecast data from Central Weather Bureau and load into MySQL database.
 
 **Motivation**
 
-1. Extract- use simple API to scap weather forcast data in json fomrat.
+1. Extract- use simple API to scrap weather forecast data in json format.
 2. Transform- use python Datetime module to transform string into datetime for fucture time interval calculation.
 3. Load- define schema for database (e.g. column datatype) and use pymysql to connect to cursor.
 
